@@ -1,0 +1,15 @@
+ .login-form{
+     border: 3px solid white;
+     background-color: #e7ebee;
+     border-radius: 10px;
+ }
+.button{
+    border: 1px solid gray ;
+    padding: 10px 20px;
+    width: 100%;
+    border-radius: 50px;
+}
+
+.button img{
+    width: 30px;
+}
